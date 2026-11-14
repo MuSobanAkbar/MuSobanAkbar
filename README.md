@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/soban-"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mu.sobanakbar@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Fredericton,_NB-0D1117?style=flat-square&logo=googlemaps&logoColor=white" alt="Fredericton, NB" />
 </p>
 
@@ -30,6 +30,12 @@ Sorts customer emails and drafts replies, but never auto-replies to complaints. 
 
 **[torque](https://github.com/MuSobanAkbar/torque)** · Python, FastAPI · *in progress*
 Mechanic notes in, itemised quote out. Tool calling, code-enforced guardrails, and a pipeline-vs-agent comparison measured with evals.
+
+<br />
+
+### Activity
+
+<img src="./heatmap.svg" width="100%" alt="Contribution heatmap" />
 
 <br />
 
