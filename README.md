@@ -1,4 +1,6 @@
-<h2 align="center">Soban Akbar</h2>
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Soban Akbar" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&width=520&height=28&lines=AI+engineering+with+a+production+focus;Evals+%C2%B7+guardrails+%C2%B7+observability;CS+%40+University+of+New+Brunswick" alt="AI engineering with a production focus" />
@@ -56,17 +58,5 @@ Mechanic notes in, itemised quote out. Tool calling, code-enforced guardrails, a
 - **Measure before shipping.** Every AI feature gets an eval set, with separate gates for the failures that matter.
 - **Plan for failure.** Timeouts, clean errors, and no private data in logs.
 - **Write it down.** Design docs, decision records and honest "known limitations" in every README.
-
-</details>
-
-<details>
-<summary><b>Contribution snake</b></summary>
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuSobanAkbar/MuSobanAkbar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuSobanAkbar/MuSobanAkbar/output/github-snake.svg" />
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/MuSobanAkbar/MuSobanAkbar/output/github-snake.svg" />
-</picture>
 
 </details>
